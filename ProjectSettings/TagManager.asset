@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Table
+  - Door
+  - col
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2425651459
+    locked: 0
+  - name: Walls
+    uniqueID: 4189426099
+    locked: 0
+  - name: Object
+    uniqueID: 267090117
+    locked: 0
+  - name: NPC
+    uniqueID: 1019703191
+    locked: 0
+  - name: Table
+    uniqueID: 2225261021
+    locked: 0
+  - name: Player
+    uniqueID: 2502889355
+    locked: 0
